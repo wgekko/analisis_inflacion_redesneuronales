@@ -35,7 +35,7 @@ El ecosistema está compuesto por cuatro enfoques de red neuronal independientes
 
 
 para clonar el repo
-
+https://github.com/wgekko/analisis_inflacion_redesneuronales.git
 
 video demo
 
