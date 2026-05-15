@@ -31,19 +31,12 @@ El ecosistema está compuesto por cuatro enfoques de red neuronal independientes
 ├── ModeloLSTM.py                # Tablero predictivo con arquitectura LSTM
 ├── ModeloGRU.py                 # Tablero predictivo con arquitectura GRU
 ├── requirements.txt             # Dependencias del proyecto
-
-´´´
-para clonar el proyecto
+└── README.md                    # Documentación principal
 
 
-
+para clonar el repo
 
 
 video demo
 
 
-
-
-
-
-└── README.md                    # Documentación principal
