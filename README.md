@@ -1,11 +1,11 @@
 # analisis_inflacion_redesneuronales
 Dashboard analitica de variacion de precios con redes neuronales-
 
-# 📈 Deep Learning para Pronóstico Macroeconómico: Ecosistema de Modelos IPC
+# Deep Learning para Pronóstico Macroeconómico: Ecosistema de Modelos IPC
 
 Este proyecto despliega un conjunto de aplicaciones interactivas desarrolladas en **Streamlit** diseñadas para la proyección de la tasa de inflación mensual (IPC) por regiones y rubros. A través de arquitecturas avanzadas de **Deep Learning**, el sistema automatiza la ingesta, limpieza, transformación y modelado predictivo a partir de datos brutos de índices de precios.
 
-## 🚀 Arquitecturas Implementadas
+## Arquitecturas Implementadas
 
 El ecosistema está compuesto por cuatro enfoques de red neuronal independientes, permitiendo evaluar la sensibilidad y estabilidad de cada arquitectura ante shocks económicos:
 
@@ -14,7 +14,7 @@ El ecosistema está compuesto por cuatro enfoques de red neuronal independientes
 * **LSTM (`ModeloLSTM.py`):** Red de memoria a largo y corto plazo (*Long Short-Term Memory*), optimizada para identificar patrones secuenciales y estacionales tradicionales en la economía.
 * **GRU (`ModeloGRU.py`):** Redes de unidades recurrentes compuertas (*Gated Recurrent Units*), una alternativa eficiente a LSTM con menor costo computacional y convergencia ágil en series históricas.
 
-## 🛠️ Características Principales
+## Características Principales
 
 * **Pipeline de Datos Automatizado:** Ingesta desde archivos estructurados (`.xlsx`), detección dinámica de regiones (GBA, Pampeana, Cuyo, etc.), interpolación lineal de datos faltantes y cálculo automático de la variación porcentual mensual.
 * **Interfaz Analítica Avanzada:** Tablas dinámicas formateadas con métricas clave y proyecciones iterativas a 3 meses (Mes 1, Mes 2, Mes 3).
