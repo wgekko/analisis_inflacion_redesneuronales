@@ -39,7 +39,11 @@ https://github.com/wgekko/analisis_inflacion_redesneuronales.git
 
 video demo
 
-https://github.com/user-attachments/assets/dc7f13df-9a9f-4d02-9490-90961bcdec4c
+
+
+https://github.com/user-attachments/assets/68f4b88c-9caf-47ee-b897-6ad4702db769
+
+
 
 
 
