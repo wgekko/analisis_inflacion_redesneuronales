@@ -22,8 +22,6 @@ El ecosistema está compuesto por cuatro enfoques de red neuronal independientes
 * **Predicción Iterativa Compleja:** Los modelos utilizan sus propias predicciones previas de manera autorregresiva para proyectar los meses subsiguientes.
 
 ## 📂 Estructura del Proyecto
-
-```text
 ├── data/
 │   └── ipc.xlsx                 # Archivo de datos fuente (Índices IPC)
 ├── ModeloTransformer.py         # Tablero predictivo con arquitectura Transformer
@@ -34,13 +32,16 @@ El ecosistema está compuesto por cuatro enfoques de red neuronal independientes
 └── README.md                    # Documentación principal
 
 
+
 para clonar el repo
 https://github.com/wgekko/analisis_inflacion_redesneuronales.git
 
 video demo
 
 
-https://github.com/user-attachments/assets/1ca87dca-26ba-4143-9c57-d3aec16b9c5d
+
+https://github.com/user-attachments/assets/23e1c397-5e8a-4486-95fb-22f260096d72
+
 
 
 
